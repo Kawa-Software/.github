@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is Kawa Software here. 
-@olamy owned company.
+[@olamy](https://github.com/olamy) owned company.
 if you need some help building your software, feel free to ask
 
 <!--
